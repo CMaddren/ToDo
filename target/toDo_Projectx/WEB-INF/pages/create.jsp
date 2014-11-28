@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>Add Items To Your List</title>
-</head>
+</head>testText
 <%--<body>--%>
 <%--<form:form action="/toDo_Project/create/" method="post" commandName="list">--%>
 <%--Enter item one <INPUT type=TEXT NAME = item1 size=100><BR>--%>
